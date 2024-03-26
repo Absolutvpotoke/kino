@@ -1,7 +1,5 @@
-.t, p{
+p{
   text-align: center;
+  border-radius: 90;
 }
-.t {
-  border-radius: 4px;
-}
-  
+
