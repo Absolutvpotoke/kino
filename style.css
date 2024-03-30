@@ -6,8 +6,7 @@ p {
 main p {
   padding: 10px;
   box-shadow: 8px 8px 17px 3px;
- 
-    
+  margin: 50px; 
 }
 .t {
   margin-left: 820px;
