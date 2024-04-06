@@ -1,11 +1,10 @@
-header p:hover {
-  color: #FFCF48;
-  align: none;
-}
 p {
   border-radius: 18px;
   font-size: 20px;
   text-align: center;
+}
+header p:hover {
+  color: #FFCF48;
 }
 main p {
   padding: 10px;
