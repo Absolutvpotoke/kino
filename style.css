@@ -3,7 +3,7 @@ p {
   font-size: 20px;
   text-align: center;
 }
-header p:hover {
+header a:hover {
   color: #FFCF48;
 }
 main p {
