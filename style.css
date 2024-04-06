@@ -1,3 +1,6 @@
+header p:hover {
+  color: #FFCF48;
+}
 p {
   border-radius: 18px;
   font-size: 20px;
@@ -11,5 +14,13 @@ main p {
 .t {
   margin-left: 830px;
 }
-
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+}
+li {
+  display: inline;
+}
+  
 
