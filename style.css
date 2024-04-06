@@ -3,8 +3,8 @@ p {
   font-size: 20px;
   text-align: center;
 }
-a {
-  font-size: 40px;
+header a {
+  font-size: 20px;
   padding: 20px;
   colr: #293133;
   text-decoration: none;
