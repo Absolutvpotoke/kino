@@ -1,5 +1,6 @@
 header p:hover {
   color: #FFCF48;
+  align: none;
 }
 p {
   border-radius: 18px;
