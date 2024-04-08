@@ -11,6 +11,7 @@ header a {
   padding: 20px;
   color: #293133;
   text-decoration: none;
+  display: inline;
 header a:hover {
   color: #FFCF48;
   text-decoration: none;
