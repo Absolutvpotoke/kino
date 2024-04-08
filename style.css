@@ -14,7 +14,7 @@ header a {
   display: inline;
 header a:hover {
   color: #FFCF48;
-  text-decoration: none;
+ 
 }
 main p {
   padding: 10px;
