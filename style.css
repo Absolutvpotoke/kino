@@ -8,12 +8,12 @@ p {
 header a {
   font-size: 20px;
   padding: 20px;
-  color: #293133;
+  color: black;
   text-decoration: none;
   display: inline;
 header a:hover {
   color: #FFCF48;
- 
+  font-size: 25px;
 }
 main p {
   padding: 10px;
