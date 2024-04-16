@@ -31,5 +31,12 @@ ul {
 li {
   display: inline;
 }
-  
+.footer {
+  margin-top: auto;
+}
+.div {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 
