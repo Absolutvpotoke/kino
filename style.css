@@ -36,7 +36,8 @@ li {
 }
 .div {
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-areas: "header" "main" "footer" ;
+  grid-template-rows: auto 1fr auto;
   min-height: 100vh;
 
